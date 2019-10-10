@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/bin/Debug/netcoreapp3.0/IF_statement
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/bin/Debug/netcoreapp3.0/IF_statement.deps.json
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/bin/Debug/netcoreapp3.0/IF_statement.runtimeconfig.json
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/bin/Debug/netcoreapp3.0/IF_statement.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/bin/Debug/netcoreapp3.0/IF_statement.dll
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/bin/Debug/netcoreapp3.0/IF_statement.pdb
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/obj/Debug/netcoreapp3.0/IF_statement.csprojAssemblyReference.cache
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/obj/Debug/netcoreapp3.0/IF_statement.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/obj/Debug/netcoreapp3.0/IF_statement.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/obj/Debug/netcoreapp3.0/IF_statement.dll
+/Users/Britta/Desktop/Lesson3/Leap_year/IF_statement/obj/Debug/netcoreapp3.0/IF_statement.pdb

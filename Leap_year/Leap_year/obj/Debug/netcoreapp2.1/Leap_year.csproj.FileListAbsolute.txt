@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/bin/Debug/netcoreapp2.1/Leap_year.deps.json
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/bin/Debug/netcoreapp2.1/Leap_year.runtimeconfig.json
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/bin/Debug/netcoreapp2.1/Leap_year.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/bin/Debug/netcoreapp2.1/Leap_year.dll
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/bin/Debug/netcoreapp2.1/Leap_year.pdb
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/obj/Debug/netcoreapp2.1/Leap_year.csprojAssemblyReference.cache
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/obj/Debug/netcoreapp2.1/Leap_year.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/obj/Debug/netcoreapp2.1/Leap_year.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/obj/Debug/netcoreapp2.1/Leap_year.dll
+/Users/Britta/Desktop/Lesson3/Leap_year/Leap_year/obj/Debug/netcoreapp2.1/Leap_year.pdb
